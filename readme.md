@@ -1,4 +1,4 @@
-* Occulus Scraper
+# Occulus Scraper
 
 Scraper to check availability of Occulus Rift S
 
